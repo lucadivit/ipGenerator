@@ -1,2 +1,2 @@
 # ipGenerator
-A simple script written in python that generate a reachable IPv4
+A simple script written in python that generate a set of reachable IPv4.
