@@ -1,0 +1,7 @@
+
+--output=<file_name>.txt [Default disabled]
+--desiredIP=X with X integer in (0,N) [Default desiredIP=3]
+--verbose=Y with Y integer in (0,1) [Default verbose=0]
+--help print this message
+Usage Example:
+python pingWithPython.py --verbose=1 --output=pyPing.txt --desiredIP=1
