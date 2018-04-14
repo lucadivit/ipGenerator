@@ -7,7 +7,7 @@ A simple script written in python that generate a set of reachable IPv4.
 ```
 git clone https://github.com/lucadivit/ipGenerator
 
-cd ipGeneretor
+cd ipGenerator
 
 pip install -r requirements.txt
 ```
@@ -74,4 +74,7 @@ IP: 123.123.123.123 Hostname: string.of.hostname
 
 * [Progress](https://github.com/verigak/progress/) - Used for spinner
 
+## License
+
+ipGenerator is licensed under ISC
 
