@@ -16,18 +16,20 @@ pip install -r requirements.txt
 
 Example of usage:
 
-1.
+First example:
 
 ```
 python ipGenerator.py
 ```
 
-2.
+Second example:
 ```
 python ipGenerator.py --verbose=1 --output=ipList.txt --desiredIP=2
 ```
 
 For help type:
+_____________
+
 ```
 python ipGenerator.py --help
 ```
