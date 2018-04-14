@@ -32,29 +32,31 @@ For help type:
 python ipGenerator.py --help
 ```
 
-###Flags
+##Flags
 
 There are some flags. Now i explain it:
 
+```
 --verbose=X where X is a number in (0,1).
+```
 
 The verbose flag provides additional details during the process.
-
 The default value of verbose is 0 (disabled).
 
+```
 --desiredIP=Y where Y is an integer in (0,N).
+```
 
 The desiredIP flag specifies the number of reachable IP that you want in output.
-
 The default value of desiredIP is 3.
-
+```
 --output=<file_name>.txt 
+```
 
 The output flag provides a list of reachable IP in a text file.
-
 The default value is "" (disabled).
 
-###Output example
+##Output example
 
 ```
 IP: 123.123.123.123 Hostname: string.of.hostname
