@@ -28,7 +28,6 @@ python ipGenerator.py --verbose=1 --output=ipList.txt --desiredIP=2
 ```
 
 For help type:
-_____________
 
 ```
 python ipGenerator.py --help
