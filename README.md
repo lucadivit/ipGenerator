@@ -70,6 +70,10 @@ The help flag prints the help message.
 IP: 123.123.123.123 Hostname: string.of.hostname
 ```
 
+## To Do
+
+* **Some input and flags cotrol**
+
 ## External Code
 
 * [Progress](https://github.com/verigak/progress/) - Used for spinner
