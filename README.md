@@ -72,7 +72,7 @@ IP: 123.123.123.123 Hostname: string.of.hostname
 
 ## To Do
 
-* **Some input and flags cotrol**
+* Some input and flags cotrol
 
 ## External Code
 
